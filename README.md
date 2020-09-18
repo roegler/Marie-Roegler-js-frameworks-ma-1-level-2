@@ -23,7 +23,7 @@ The image slider including the h1 are place inside a div called 'container'. Ins
 
 ## JavaScript
 
-To make it possible to slide between the different images I implemented a onclick function for both of the arrow images. You can see how I made it work below. To check if the function is working before you write the if statement console.log(clicked).
+To make it possible to slide between the different images I implemented a onclick function for both of the arrow images. You can see how I made it work below. 
 
 ```js
 
